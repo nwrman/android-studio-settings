@@ -1,0 +1,37 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="testRunner" value="GRADLE" />
+        <option name="delegatedBuild" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/projects/imef/cordova-plugin-conekta" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="C:/etc/android/sdk" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>Android API 24 Platform</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
