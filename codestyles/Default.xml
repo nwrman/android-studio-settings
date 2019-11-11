@@ -2,6 +2,10 @@
   <AndroidXmlCodeStyleSettings>
     <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_TEXT_WRAP" value="0" />
+  </XML>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
