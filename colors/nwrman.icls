@@ -4,18 +4,12 @@
     <property name="created">2019-11-08T23:25:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-08T23:25:37</property>
+    <property name="modified">2020-05-25T16:29:13</property>
     <property name="originalScheme">nwrman</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="2.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="19" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
-    <option name="EDITOR_FONT_SIZE" value="19" />
-  </font>
+  <option name="LINE_SPACING" value="1.8" />
+  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="18" />
